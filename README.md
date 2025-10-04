@@ -36,7 +36,7 @@ The goal is to classify flowers into **three species**:
 
 
                                            
-!Decision Tree(tree.png)
+![Decision Tree](tree.png)
                                          
 
 
