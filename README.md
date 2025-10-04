@@ -32,6 +32,14 @@ The goal is to classify flowers into **three species**:
  
 
 ---
+## 📈 Results
 
+
+                                           
+!Decision Tree(tree.png)
+                                         
+
+
+**Accuracy:** 1.0
 
 
